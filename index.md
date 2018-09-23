@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 量化交易
 
-You can use the [editor on GitHub](https://github.com/dinghaofeng/shellcoin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+该网页主要提供一些量化交易的策略方案以及所需要的因子。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+提供量化因子的开源说明，与大家交流探讨学习。
 
 ### Markdown
 
